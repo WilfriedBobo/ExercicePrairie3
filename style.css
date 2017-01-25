@@ -1,0 +1,13 @@
+.kil {
+  color: red;
+}
+.lit {
+  color: green;
+}
+.boi {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.paid {
+  font-style: italic;
+}
